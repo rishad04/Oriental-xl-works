@@ -1,0 +1,12 @@
+Sub RunAllMacros()
+    Call UpdateManifestNumber_BSF1
+    Call UpdateManifestNumber_BSF2
+    Call UpdateManifestNumber_BSF3
+    Call UpdateManifestNumber_BSF4
+    Call UpdateManifestNumber_BSF5
+    Call UpdateManifestNumber_BSF6
+    Call UpdateManifestNumber_BSF7
+    Call UpdateManifestNumber_BSF8
+    ' Add calls to other macros here
+End Sub
+
