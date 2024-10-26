@@ -1,0 +1,583 @@
+
+; --------------------- Prayer Cap ------------------------
+; ---------------------------------------------------------
+
+; Dhaka
+Akota Caps
+Samira’s Caps
+Iqbal Cap House
+Nabila’s Cap Corner
+Rahman Cap Zone
+Fatema Caps 
+Rafiq Cap Depot
+Anika’s Cap House
+Shahana Caps
+Ashraf’s Cap Plaza
+Jahanara Cap World
+Rehan’s Cap House
+Kabir Cap Corner
+Shakib Cap Factory
+Afsana’s Cap House
+Munir Cap Center
+Yasmin’s Cap Factory
+Noor Cap Garments
+Farhan Cap Garments
+Sultana’s Caps
+
+
+; Kolkata
+Riya’s Cap Store
+Vinita Caps & Hats
+Sudipto Caps
+Priya Cap World
+Meera’s Cap Haven
+Arjun Prayer Caps
+Suresh Cap Boutique
+Tanisha’s Cap Corner
+Omit’s Cap Zone
+Kironmala Hats
+Sunnah Prayer Hub
+Hawra Hat Mart
+Rajesh Headwares
+Sanya’s Cap World
+Kobita Headwares
+Subhom Caps
+Chandan Cap Collection
+Oasis Caps & Hats
+Shabana’s Cap Outlet
+Protik Caps & Hats
+
+
+; --------------------- Burka ------------------------
+; ----------------------------------------------------
+
+------------------  Dhaka  ---------------------
+Tarek Burka Garments
+Samira’s Burka Store
+Iqbal Burka Mart
+Nabila’s Burka Corner
+Rahman Traders
+Fatema Burkas
+Rafiq Burka Garments
+Anika’s Burka Store
+Shahana Burka Shop
+Ashraf Burka Plaza
+Jahanara Burkas
+Rehan Enterprise
+Kabir Burka Point
+Shakib’s Burka Hub
+Afsana Burka Fashions
+Munir Tradings
+Yasmin Burka Garments
+Noor Burkas
+Farhan Burka Garments
+Sultana’s Burka Factory
+
+------------------  Kolkata  ---------------------
+Riya Burka Store
+Vikram Burka Palace
+Sudip’s Burka Gallery
+Priya Burka Fashions
+Meera Burka Haven
+Arjun Burka Boutique
+Suresh’s Burka Stop
+Tanisha Burka Corner
+Amit’s Burka & Hijabs
+Kiran Burka Mart
+Pooja Burkas
+Deepa’s Burka Point
+Rajesh Burka Zone
+Sanya’s Burka Fashions
+Kavita Burka Shop
+Subho Burka Fashions
+Chandan’s Burka Collection
+Debasis Burka Point
+Shabana Burkas Outlet
+Pratik’s Burka Collection
+
+
+; --------------------- Sewing Machine Parts ------------------------
+; ----------------------------------------------------
+
+------------------  Dhaka  ---------------------
+
+Mannan Parts Solutions
+Samira’s Traders
+Iqbal Parts 
+Nabila’s Parts Corner
+Toma Enterprise
+Fatema Parts Store
+Rafiq Parts Works
+Anika’s Machines
+Shahana Parts Stop
+Ashraf Machinaries
+Jahanara Parts 
+Rehana Enterprise
+Kabir Parts Shop
+Shakib Tradings
+Afsana Parts
+Munir Parts Center
+Yasmin Parts Corner
+Noor’s Parts 
+Farhan Machinaries
+Sultana Enterprise
+
+------------------  Kolkata  ---------------------
+Riya Sewing Corner
+Vikram Machine Parts
+Priya Sewing Center
+Sudip Parts
+Tanisha Sewing Center
+Arjun Parts Plaza
+Kiran Sewing Machines
+Suresh Parts Mart
+Deepa Machine & Parts
+Amit Parts World
+Chandan Parts Solutions
+Pooja Sewings
+Kavita Machinaries
+Sanya Parts
+Debasis Sewing Machinees
+Neha Parts Shop
+Rajesh Sewing Machines
+Subho Parts House
+Ramesh Sewing Center
+Chaitanya Sewing Machine
+
+
+; --------------------- Iron Scrap ------------------------
+; ----------------------------------------------------
+
+------------------  Dhaka    ---------------------
+Anis Irons Works
+Rania Scrapings
+Zafar Traders
+Meher Iron Ltd
+Noreen Iron works
+Shamsul Irons
+Farzana Scrapings
+Tania Iron Exports
+Bilqis Enterprise
+Rony Traders
+Yasin Irons
+Junaid Irons 
+Nabilah Iron Center
+Rehana Enterprise
+Maa Tradings
+Salim Iron Center
+Hani Iron Corner
+Inaya Irons
+Muhtasim Scraps
+Fariha Enterprise
+
+------------------  Kolkata  ---------------------
+Avinash Iron Supply
+Tanisha Scraping Center
+Nikhil Iron Works
+Chhaya Irons
+Priyanshu Iron Works
+Karishma Scrapings
+Ayaan Irons
+Deepali Iron & Metals
+Rohin Scrapings Point
+Kaveri Scrapings
+Satyajit Irons
+Neeraj Scrapings Doc
+Radhika Irons 
+Anindya Iron Center
+Tushar Irons
+Poonam Scrapings
+Parag Irons
+Sharmila Scrapings
+Kunal Enterprise
+Avani Iron Supply
+
+; --------------------- Motor Spare Parts  ------------------------
+; ----------------------------------------------------
+
+------------------  Dhaka  ---------------------
+
+Arif Motors
+Laila Auto Parts
+Kamal Autos
+Rima Spare Parts
+Faisal Parts Gallery
+Nasreen Spare Parts
+Shahid Parts Plaza
+Shabana Enterprise
+Rifat Autoparts
+Amina Repairings
+Omar Autos
+Naila Motors & Parts
+Zain Workshop
+Saira Auto House
+Hossain Spare Parts
+Meena Traders
+Talib Auto House
+Farah Motors
+Samir Autos
+Messas Rubina Traders
+
+------------------  Kolkata  ---------------------
+Rajesh Parts Store
+Anjali Parts Depot
+Kiran Auto Parts
+Suman Parts 
+Neha Parts Solutions
+Nitin Repairings
+Simran Auto Parts
+Abhishek Spare Parts
+Kavita Parts Point
+Ravi Parts Haven
+Aditi Auto Palace
+Gaurav Motors
+Preeti parts Solutions
+Anirban Enterprise
+Sunil Motor parts
+Poonam Autos
+Kunal Parts Haven
+Shobha Parts Store
+Raghav Autoparts Station
+Charu Parts 
+
+; --------------------- Socks ------------------------
+; ----------------------------------------------------
+
+------------------  Dhaka    ---------------------
+Amir Socks
+Zara  Collection
+Rafi Foot Emporium
+Nabila Socks Corner
+Shayan Socks
+Laila Moja Ghor
+Zain Socks 
+Farzana Pa Moja
+Bilal Moja Ghor
+Hira Moja Garments
+Samira Garments
+Tariq Socks Factory
+Fariha Socks Works
+Rina Socks Factory
+Nasim Moja Station
+Jamil Mojas
+Amina Moja Ghor
+Rifat Moja Bitani
+Kadir Socks
+Noor Socks Corner
+
+------------------  Kolkata  ---------------------
+Anaya Socks Corner
+Vivek Socks Mart
+Meenal Socks Fashion
+Rohan Boutique
+Charu Enterprise
+Dinesh Moja Collection
+Anjali Mojas
+Priya Padukalaya
+Neeraj Footwares
+Kavya Moja
+Saurav Fashions
+Tanisha Enterprise
+Abhay Mojas
+Ishita Socks Point
+Rajat Socks Depot
+Pooja Socks 
+Shreya Socks Fashion
+Arjun Socks Hub
+Manisha Socks House
+Rahul Socks House
+
+; --------------------- Fabrics ------------------------
+; ----------------------------------------------------
+
+------------------  Dhaka    ---------------------
+
+Samir Fabrics 
+Zara Fabrics 
+Anis Boutique
+Rania Fashion
+Kadir Fabrics
+Hira Fabrics Mart
+Shabana Fabrics Corner
+Bilal Fabrics 
+Laila Collection
+Farhan Fabric Store
+Nabila Enterprise
+Yasir Garments
+Fariha Collections
+Tariqa Mart
+Noor Fashions
+Zhayan Collections
+Amina Fabrics
+Rifat Garments
+Nasim Fabrics 
+Jamil Fashions
+------------------  Kolkata  ---------------------
+
+Rohan Fabrics Gallery
+Ishita Fabrics Depot
+Priya Fabrics Work
+Anjali Vastralaya
+Saurav Fabrics Haven
+Meenal Collections
+Tanisha Fabrics Mart
+Abhay Couture
+Arjun Fashion Hub
+Shreya Fabrics
+Vivek Fashion Mart
+Kiran Uniques
+Dinesh Collections
+Kavya Store
+Charu Collections
+Neeraj Fabrics 
+Manisha Fashions
+Raghav Enterprise
+Anaya Bostraloy
+Rajat Fabric Store
+
+; --------------------- Needle ------------------------
+; ----------------------------------------------------
+
+------------------  Dhaka    ---------------------
+
+Arif Needles
+Laila Needles 
+Kamal Needle Shop
+Fariha Needle Mart
+Jahan Needle Factory
+Saima Enterprise
+Omar Neddles
+Naila Iron & Needle
+Shayan Needle House
+Rifat Needle Point
+------------------  Kolkata  ---------------------
+Anaya Needle Shop
+Vikram Needle Store
+Sneha Needle Haven
+Rohan Hardwares
+Charu Needle Emporium
+Dinesh Needles
+Poonam Needle Works
+Arvind Needle Point
+Kavya Needle Corner
+Saurav Needles
+
+
+; --------------------- Book ------------------------
+; ----------------------------------------------------
+
+------------------  Dhaka    ---------------------
+Arman Book Store
+Nisha Prokashoni
+Faraz Enterprise
+Kiran Book Gallery
+Asif Book Printings
+Meera Book Mart
+Tarek Prokashoni
+Alina Prokashoni
+Rifat Book Store
+Sadiq Book House
+Tanvi Book Shop
+Rubina Book Store
+Bilal Book Corner
+Salim Book House
+Naima Printings
+Zainab Prokashoni
+Kadir Enterprise
+Gyankosh Prokashoni
+Huma Books
+Shaheen Traders
+
+------------------  Kolkata  ---------------------
+
+Anisha Book Point
+Vikram Book Store
+Sneha Books
+Rohan Book House
+Charu Book Corner
+Dinesh Books
+Anjali Books
+Priya Book Stationary
+Neeraj Book Corner
+Kavya Book Store
+Saurav Book House
+Tanisha Books
+Abhay Book House
+Ishita Book Store
+Rajat Library's
+Shreya Book Store
+Arjun Book heaven
+Manisha Books 
+Raghav Book House 
+Rabindra Books
+
+
+
+/// lungi 
+
+dhaka: 
+
+Nafees Enterprise
+Arif Lungis
+Zain Garments
+Rida Lungi House
+Saima Fashions
+Samin Lungis
+
+kolkata:
+
+Tanvir Lungi Fashions 
+Geetika Fashions
+Poonam Lungis
+Vikram Collection
+Sujata Wears
+Ritu Lungi & Fashions
+
+/// Lace
+
+dhaka:
+
+Nafees Lace House
+Arif Lace Factory
+Bilal Laces`
+Kamal Lace House
+Samad Enterprise
+Asim Fashions
+Yasir Lace Mart
+Noor Laces
+
+kolkata:
+
+Deepa Fashions
+Neelam Laces
+Ipsita Fashion
+Riya Collection
+Kiran Jori House
+Gaurav Fashions
+Tanvi Lace World
+Krisna Collections
+
+
+/// Sarees
+
+dhaka:
+
+Nafees Sarees 
+Purnima Sarees Factory
+Bithi Laces`
+Kalams Garment House
+Maa Enterprise
+Niyoti Fashions
+Jaman Sarees 
+Nurjahan's Sare world
+
+kolkata:
+
+kalika Fashions
+Nilam's Sarees World
+Amrutt Fashion
+Ritika's Collection
+Nayan Saree House
+Git Fashions
+Tanvi Sarees World
+Radha Collections
+
+/// Three Piece
+
+dhaka:
+
+Afsan Fashion
+Tania Fashions
+Riya Collections
+Zain Garment House
+Rifat Enterprise
+Samira Fashions
+Shaan Three pieces
+Hira Fabric World
+
+kolkata:
+
+Anaya Fashions
+Pooja Style World
+Dev Fashion
+Sneha Collection
+Zara's Fashion Hub
+Ishita Fashions
+Ronita's Couture
+Charu Collections
+
+/// Playing Card
+
+dhaka:
+
+Rasel Traders
+Soni Enterprise
+Ferita Cards
+Angel Cards
+Arzoo Card Shop
+Shofiq Card Printings
+
+
+kolkata:
+
+Shree Store
+Umesh Play Store
+Sonu Garments
+Rajesh Play Zone
+Gupta Toys
+Ma Vabani Enterprise
+
+/// Mosquito Net
+
+dhaka:
+
+Haji Nets
+Shuvo Garments
+Parvez Net Fabrics
+Wahid Enterprise
+Rubi Traders
+
+
+kolkata:
+
+Mondol Net Solutions
+Priya Enterprise
+Ranjan Variety Store
+Baghi Enterprise
+Romesh Nets
+
+
+/// Common
+
+dhaka:
+
+Topon Enterprise
+Shakib Traders
+Liza Enterprise
+Faisal Enterprise
+Amrin Traders
+Tawheed Enterprise
+Neera Traders
+Nazmul Traders
+Ripon Traders
+Salauddin Traders
+M.K Enterprise
+
+
+
+kolkata:
+
+Gurunath Traders
+Ramlal Enterprise
+Durga Traders
+Maa Traders
+Santoshi Enterprise
+Duwarka Traders
+Rahul  Traders
+Raj Enterprise
+Mahavir Enterprise
+Bir Enterprise
+Manna Traders
+Tara Traders
+Prosad Tradings
+ Tradings
